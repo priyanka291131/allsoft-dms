@@ -1,0 +1,12 @@
+Install dependencies 
+
+
+    npm install react-script
+    npm install react-router-dom
+    npm install react-router-dom fram
+    npm install jszip file-saver er-motion
+    npm install @mui/icons-material
+    npm install @mui/material @emotion/react @emotion/styled
+    npm install framer-motion
+
+It uses React Scripts for app setup and development, React Router for page navigation, JSZip and File Saver for file handling, Material UI with Emotion for UI design, Material icons for visuals, and Framer Motion for smooth animations.
