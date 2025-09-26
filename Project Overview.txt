@@ -1,0 +1,33 @@
+🔎 Overview
+
+The DMS Frontend provides a modern, intuitive web interface to manage documents efficiently. It enables users to upload, search, organize, and access documents with ease, ensuring productivity and secure handling of information.
+
+🎯 Key Features
+
+Secure user authentication & role-based access
+
+Centralized dashboard for recent activities and quick navigation
+
+Upload & preview of documents (PDF, Word, Images)
+
+Search & filter functionality with tagging and categories
+
+Responsive design for desktop and mobile
+
+🛠️ Tech Stack
+
+Framework: React 
+
+Styling: Tailwind CSS 
+
+State Management:  Context API
+
+API Integration: REST 
+
+🚀 Future Scope
+
+Cloud storage integration (Google Drive, AWS S3)
+
+AI-powered search and categorization
+
+Real-time collaboration (comments, annotations, sharing)
