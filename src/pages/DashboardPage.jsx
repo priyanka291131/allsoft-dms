@@ -6,6 +6,7 @@ import FileSearch from "./FileSearch"; // Search component
 import { motion, AnimatePresence } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
+
 // Dummy files for search functionality
 const dummyFiles = [
   { name: "John_Report.pdf", date: "2025-09-20", category: "Personal", tags: ["Report", "Invoice"] },
