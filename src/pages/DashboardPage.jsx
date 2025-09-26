@@ -4,6 +4,7 @@ import FileUpload from "./FileUpload";
 import FileDownload from "./FileDownload";
 import FileSearch from "./FileSearch"; // Search component
 import { motion, AnimatePresence } from "framer-motion";
+import { useNavigate } from "react-router-dom";
 
 // Dummy files for search functionality
 const dummyFiles = [
@@ -14,7 +15,6 @@ const dummyFiles = [
   { name: "Finance_Excel.xlsx", date: "2025-09-24", category: "Professional", tags: ["Finance"] },
 ];
 
-import { useNavigate } from "react-router-dom";
 
 const DashboardPage = () => {
   const navigate = useNavigate(); // add this
