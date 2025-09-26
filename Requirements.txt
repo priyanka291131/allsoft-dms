@@ -2,37 +2,23 @@
 * Functional Requirements
 
 1. User Authentication
-
--Login, logout, and signup (if enabled).
-
--Role-based access (Admin, Manager, User).
+    - Login, logout, and signup.
+    - OTP Authorization
 
 2. Dashboard
-
--Display recent activities, uploaded documents, and user stats.
-
--Quick links for uploading and searching documents.
+    -Display recent activities, uploaded documents.
+    -Quick links for uploading and searching documents.
 
 3. Document Upload & Management
-
--Upload PDF, Word, Excel, and image files.
-
--Add metadata (title, description, tags, categories).
-
--Preview documents within the browser.
-
--Version control for updated files.
+    -Upload PDF and image files.
+    -Add metadata (title, description, tags).
+    -Preview documents within the browser.
+    -Version control for updated files.
 
 4. Search & Organization
-
--Full-text search with filters (date, type, tags).
-
--Tagging & categorization for better organization.
+    -Full-text search with filters (date, type, tags).
+    -Tagging & categorization for better organization.
 
 5. User Interface
-
-- Responsive design (desktop, tablet, mobile).
-
-- Sidebar or top navigation bar.
-
-- Dark/Light mode support (optional).
+    - Responsive design (desktop, tablet, mobile).
+    - Sidebar or Left navigation bar.
